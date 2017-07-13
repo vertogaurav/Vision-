@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Gaurav\Documents\Visual Studio 2015\Projects\NETRA\NETRA\bin\x86\Debug\NETRA_1.0.0.0_x86_Debug.appx
+SymbolPackage=C:\Users\Gaurav\Documents\Visual Studio 2015\Projects\NETRA\NETRA\AppPackages\NETRA_1.0.0.0_Debug_Test\NETRA_1.0.0.0_x86_Debug.appxsym
